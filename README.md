@@ -1,2 +1,0 @@
-# ApertureTechCo-RemoteRep
-ApertureTechCo-RemoteRep
